@@ -1,5 +1,5 @@
 Username: KarenNgugi
 <br>
-Email: karenwngugi12@gmail.com
+Email: ******@gmail.com
 <br>
-Status: Awesome beyond your comprehension
+Status: Getting more awesome by the day

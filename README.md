@@ -3,8 +3,9 @@
 
 ### About me
 * :books: **Education:** IGCSE => A Levels => BSc. Computer Science
-* :heart: **Loves:** Programming, fries, black cats
-* **Current level:** Tech babe :baby:
+* :heart: **Loves:** Programming, fries, cats
+* :pushpin: **Location:** Nairobi, Kenya
+* **Current level:** That weird place between "Beginner" and "Intermediate" :dizzy_face:
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** World dominion :earth_africa:
 

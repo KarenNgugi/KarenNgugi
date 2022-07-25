@@ -2,5 +2,7 @@
 
 Welcome to my Github Page, which is currently under constrution.
 
-I'm still finding myself in the tech space, but I frequently haunt the software development and machine learning regions. Don't call the Ghostbusters pls. :(
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenNgugi)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenNgugi&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNgugi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

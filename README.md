@@ -1,13 +1,19 @@
 # <span style="color: rgb(271,58,124)">Karen Ngugi, reporting for duty!</span> :raising_hand:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karen-ngugi/)
 
-### About me
+## About me
 * :books: **Education:** IGCSE => A Levels => BSc. Computer Science
 * :heart: **Loves:** Programming, fries, cats
 * :pushpin: **Location:** Nairobi, Kenya
 * **Current level:** That weird place between "Beginner" and "Intermediate" :dizzy_face:
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** World dominion :earth_africa:
+
+## My Work:
+- Article: [How to use Python calendar.Calendar()](https://www.educative.io/answers/how-to-use-python-calendarcalendar)
+- Article: [Demystifying sklearn.cluster.kmeans](https://www.educative.io/answers/demystifying-sklearnclusterkmeans)
+- Article: [What is overfitting and underfitting in machine learning?](https://www.educative.io/answers/what-is-overfitting-and-underfitting-in-machine-learning)
+- Blog: [Hashnode](https://karenngugi.hashnode.dev/) (currently under review)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarenNgugi&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNgugi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

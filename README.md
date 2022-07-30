@@ -5,7 +5,7 @@
 * :books: **Education:** IGCSE => A Levels => BSc. Computer Science
 * :heart: **Loves:** Programming, fries, cats
 * :pushpin: **Location:** Nairobi, Kenya
-* **Currently doing:** learning the iconic "Single Ladies" choreography :dancer: (<a href="mailto:karenwngugi12@gmail.com?subject=How's the Single Ladies choreography going?&body=Hi,I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
+* **Current activity:** learning the iconic "Single Ladies" choreography :dancer: (<a href="mailto:karenwngugi12@gmail.com?subject=How's the Single Ladies choreography going?&body=Hi,I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** World dominion :earth_africa:
 

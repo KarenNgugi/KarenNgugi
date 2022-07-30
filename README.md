@@ -5,7 +5,7 @@
 * :books: **Education:** IGCSE => A Levels => BSc. Computer Science
 * :heart: **Loves:** Programming, fries, cats
 * :pushpin: **Location:** Nairobi, Kenya
-* **Current level:** That weird place between "Beginner" and "Intermediate" :dizzy_face:
+* **Currently doing:** learning the iconic "Single Ladies" choreography I'm doing :dancer: ([ask me how this is going](mailto:karenwngugi12@gmail.com))
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** World dominion :earth_africa:
 

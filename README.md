@@ -13,7 +13,7 @@
 - Article: [How to use Python calendar.Calendar()](https://www.educative.io/answers/how-to-use-python-calendarcalendar)
 - Article: [Demystifying sklearn.cluster.kmeans](https://www.educative.io/answers/demystifying-sklearnclusterkmeans)
 - Article: [What is overfitting and underfitting in machine learning?](https://www.educative.io/answers/what-is-overfitting-and-underfitting-in-machine-learning)
-- Blog: [Hashnode](https://karenngugi.hashnode.dev/) (currently under review)
+- Blog: [Hashnode](https://karenngugi.hashnode.dev/) (currently under construction)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarenNgugi&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenNgugi&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

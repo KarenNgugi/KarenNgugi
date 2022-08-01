@@ -1,6 +1,6 @@
 # <span style="color: rgb(271,58,124)">Karen Ngugi, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karen-ngugi/)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Foodie;Aulirophile;Professional+napper)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Foodie;Aulirophile;Professional+(unpaid)+napper)](https://git.io/typing-svg)
 
 ## About me
 * :books: **Education:** IGCSE => A Levels => BSc. Computer Science

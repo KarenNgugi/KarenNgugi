@@ -1,5 +1,8 @@
 # <span style="color: rgb(271,58,124)">Karen Ngugi, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karen-ngugi/)
 
+
+![](https://komarev.com/ghpvc/?username=KarenNgugi&label=Visitor+Count&color=ff3a7c&style=plastic)
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Foodie;Aulirophile;Experimenter)](https://git.io/typing-svg)
 
 ## About me

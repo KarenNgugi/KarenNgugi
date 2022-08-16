@@ -6,7 +6,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Foodie;Aulirophile;Experimenter)](https://git.io/typing-svg)
 
 ## About me
-* :books: **Education:** IGCSE => A Levels => BSc. Computer Science
+* :books: **Education:** BSc. Computer Science
 * :heart: **Loves:** Programming, fries, cats
 * :pushpin: **Location:** Nairobi, Kenya
 * **Current activity:** learning the iconic "Single Ladies" choreography :dancer: (<a href="mailto:karenwngugi12@gmail.com?subject=How's the Single Ladies choreography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
